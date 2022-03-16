@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanushreegupta
 - 👀 I’m interested in knowing various technologies.
 - 🌱 I’m currently learning python,data science.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on projects of SQL,Power BI
 - 📫 How to reach me ...
 
 <!---
